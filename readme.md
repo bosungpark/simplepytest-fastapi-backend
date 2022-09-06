@@ -1,8 +1,8 @@
 **환경설정**
 
-- 가상환경 켜기: pip env shell
+- 가상환경 켜기: pipenv shell
 
-- 필요한 패키지 설치: pip env install --dev
+- 필요한 패키지 설치: pipenv install --dev
 
 - pytest 실행 명령: pytest
 
