@@ -14,7 +14,7 @@
 
 - 고수준 테스트를 만들기 보다는 최대한 저수준의 유닛테스트를 많이 만들어야 한다
 
-![테스트 피라미드](https://user-images.githubusercontent.com/81157873/188581836-a07dc1db-5ce4-41a7-b1e7-5db54f7aee47.png){: width="100" height="100"}
+![테스트 피라미드](https://user-images.githubusercontent.com/81157873/188581836-a07dc1db-5ce4-41a7-b1e7-5db54f7aee47.png)
 
 - E2E: 가장 직관적인 레벨, 이 단계에서 문제가 생긴다면 요청, 파싱, 리턴 값 등을 의심해 볼 수 있다.
 
