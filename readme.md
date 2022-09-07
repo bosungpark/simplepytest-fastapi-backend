@@ -32,3 +32,4 @@
 - fastapi 간단한 어플리케이션 튜토리얼: https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-1-hello-world/
 - pytest 공식문서: https://docs.pytest.org/en/7.1.x/
 - pytest-factory-boy 공식문서: https://pytest-factoryboy.readthedocs.io/en/stable/# 
+- factory-boy 공식문서: https://factoryboy.readthedocs.io/en/stable/index.html
