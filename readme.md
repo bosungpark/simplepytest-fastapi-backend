@@ -25,3 +25,10 @@
 - Unit: 전체 코드 중에 아주 작은 부분을 테스트 하는 것, 함수 하나 하나 테스트 코드를 작성하는 것이 해당된다.
 
 - domain: 
+
+**fastapi와 pytest 레퍼런스**
+
+- fastapi 공식문서: https://fastapi.tiangolo.com/ko/
+- fastapi 간단한 어플리케이션 튜토리얼: https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-1-hello-world/
+- pytest 공식문서: https://docs.pytest.org/en/7.1.x/
+- pytest-factory-boy 공식문서: https://pytest-factoryboy.readthedocs.io/en/stable/# 
